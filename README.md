@@ -1,4 +1,4 @@
-# Hi, I'm Ashley 👋
+# Hi, I'm Ash 👋
 
 Computer Science student based in Cebu, Philippines.
 
