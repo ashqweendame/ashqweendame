@@ -1,5 +1,3 @@
-## Selected work
-
 <div align="center">
 
 <p align="center">
@@ -11,7 +9,7 @@
 
 </div>
 
-## The idea behind the work
+## About Me
 
 > CS Student @ USC 🚀 | Aspiring Software Developer | Building apps with Python, Java, &amp; React
 
@@ -20,7 +18,7 @@
 
 *Small, useful work over vague claims.*
 
-## Case studies
+## Repositories and Projects
 
 <table>
 <tr><td width="32%"><b><a href="https://github.com/ashqweendame/ashqweendame">ashqweendame</a></b></td><td>CS50 Introduction to Computer Science Repository.<br/><sub>open source · 0 stars</sub></td></tr>
