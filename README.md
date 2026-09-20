@@ -7,7 +7,7 @@
 </p>
 
 <h1>Ashley S. Muñoz</h1>
-<p><b>Freelance developer or consultant</b></p>
+<p><b>Computer Science and Aspiring Software Developer</b></p>
 
 </div>
 
@@ -23,9 +23,9 @@
 ## Case studies
 
 <table>
-<tr><td width="32%"><b><a href="https://github.com/ashqweendame/ashqweendame">ashqweendame</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/ashqweendame/ashqweendame">ashqweendame</a></b></td><td>CS50 Introduction to Computer Science Repository.<br/><sub>open source · 0 stars</sub></td></tr>
 <tr><td width="32%"><b><a href="https://github.com/ashqweendame/E1-DSA">E1-DSA</a></b></td><td>This repository stores ADT List, Stack, Queue, and Cursor-Based operations.<br/><sub>C · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/ashqweendame/EmployeeProject_MUNOZ">EmployeeProject_MUNOZ</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Java · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/ashqweendame/EmployeeProject_MUNOZ">EmployeeProject_MUNOZ</a></b></td><td>Stores Object-Oriented Programming Employee Project.<br/><sub>Java · 0 stars</sub></td></tr>
 </table>
 
 ## Details worth noticing
