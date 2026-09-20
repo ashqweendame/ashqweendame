@@ -1,81 +1,51 @@
-# Hi, I'm Ash 👋
+## Selected work
 
-Computer Science student based in Cebu, Philippines.
+<div align="center">
 
-I’m currently learning how to build software, work with data, and turn ideas into practical projects. I enjoy experimenting with different technologies and figuring out how things work.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=ashqweendame&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F198917374%3Fv%3D4" alt="ashqweendame hero visual" />
+</p>
 
-## About Me
+<h1>Ashley S. Muñoz</h1>
+<p><b>Freelance developer or consultant</b></p>
 
-* 🎓 Computer Science student
-* 💻 Interested in Data Engineering and Data Technology
-* 🌱 Currently improving my skills in programming, databases, web development, and software development
-* 🗄️ Learning SQL, database design, and data structures
-* 🌐 Building projects with HTML, CSS, JavaScript, PHP, Java, C, and MySQL
-* ♟️ Chess player
-* 🎸 Guitarist
-* 📚 I enjoy reading and learning new skills
-* 🛠️ I like building projects that solve practical problems
+</div>
 
-## Tech Stack
+## The idea behind the work
 
-### Languages
+> CS Student @ USC 🚀 | Aspiring Software Developer | Building apps with Python, Java, &amp; React
 
-`C` `Java` `PHP` `JavaScript` `HTML` `CSS` `SQL`
+- 📍 Based in **Cebu City**
+- 👥 **2** followers · **2** following
 
-### Tools & Technologies
+*Small, useful work over vague claims.*
 
-`Git` `GitHub` `MySQL` `VS Code` `Java Swing`
+## Case studies
 
-### Currently Learning
+<table>
+<tr><td width="32%"><b><a href="https://github.com/ashqweendame/ashqweendame">ashqweendame</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/ashqweendame/E1-DSA">E1-DSA</a></b></td><td>This repository stores ADT List, Stack, Queue, and Cursor-Based operations.<br/><sub>C · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/ashqweendame/EmployeeProject_MUNOZ">EmployeeProject_MUNOZ</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Java · 0 stars</sub></td></tr>
+</table>
 
-`Data Structures` `Database Systems` `Web Development` `Data Engineering` `Software Development`
+## Details worth noticing
 
-## Featured Projects
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=ashqweendame&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F198917374%3Fv%3D4" alt="ashqweendame highlights visual" />
+</p>
 
-### ♟️ Chess and School Projects
+<p><b>Ashley S. Muñoz</b> is shipping 3 public projects with 0 stars of proof.</p>
 
-Projects and activities that combine programming, problem solving, and my interest in chess.
+## Creative toolkit
 
-### 🎮 Waste Sorting Game
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-A retro pixel style Java Swing game where players sort falling trash into the correct categories.
+## Make something memorable
 
-Built with:
-`Java` `Java Swing` `OOP`
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=ashqweendame&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F198917374%3Fv%3D4" alt="ashqweendame social visual" />
+</p>
 
-### ✂️ Tailor Swift
+<a href="https://github.com/ashqweendame">GitHub</a>
 
-A mobile accessible tailor and alteration shop management system designed to organize customers, measurements, services, garments, fabrics, and orders.
-
-Built with:
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
-
-### 🧑‍💻 Student Portal
-
-A PHP based student portal with login sessions, registration, student records, reusable layouts, and form handling.
-
-Built with:
-`PHP` `MySQL` `HTML` `CSS`
-
-## What I'm Working Toward
-
-I’m working toward a career in data and software technology.
-
-My current focus is building a strong foundation in:
-
-* Programming fundamentals
-* Data structures and algorithms
-* Database design and SQL
-* Web development
-* Data engineering concepts
-* Problem solving
-
-## GitHub Goals
-
-I use GitHub to document my learning, build projects, experiment with new technologies, and track my progress as I grow as a developer.
-
-> Learn. Build. Break things. Fix them. Repeat.
-
-## Let's Connect
-
-If you're also learning programming, building projects, or interested in technology, feel free to connect.
+<p align="center"><sub>Ashley S. Muñoz · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
