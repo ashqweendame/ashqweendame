@@ -11,7 +11,7 @@
 
 ## About Me
 
-> CS Student @ USC 🚀 | Aspiring Software Developer | Building apps with Python, Java, &amp; React
+> CS Student @ USC 🚀 | Aspiring Software Developer | Building apps with HTML, CSS, JavaScript, MySQL, PHP, Python, Java, &amp; React
 
 - 📍 Based in **Cebu City**
 - 👥 **2** followers · **2** following
